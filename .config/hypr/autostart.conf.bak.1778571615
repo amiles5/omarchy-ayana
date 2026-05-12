@@ -1,4 +1,0 @@
-exec-once = sleep 2 && pkill -x swaybg &&  /usr/bin/wpaperd -d
-
-# Red Pill backup reminder on login
-exec-once = redpill-notify
